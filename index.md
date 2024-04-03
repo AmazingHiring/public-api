@@ -66,6 +66,7 @@ Response example:
   "age": 30,
   "birthday": "1990-01-01",
   "general_info": "Designing server-side business logic.",
+  "title": "Backend Engineer",
   "comments": [
     {
       "id": 1,
